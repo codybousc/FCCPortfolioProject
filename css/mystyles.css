@@ -1,0 +1,119 @@
+@import url('http://fonts.googleapis.com/css?family=Proxima+Nova');
+
+.jumbotron {
+  background-image: url("images/kyle_steed_desk.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 800px;
+  width: 100%;
+  margin: 0px;
+  border: 0px;
+}
+
+.container {
+  width: 100%;
+  margin: 0px;
+}
+#bottomJumbotron {
+  margin-top: 100px;
+  background-color: black;
+  height: 300px;
+
+}
+
+#topJumbotron {
+  margin-bottom: 50px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 0px;
+}
+
+#navText li a{
+}
+
+.icode {
+  color: white;
+}
+
+.jumboText {
+  color: white;
+  font-family: proxima-nova,sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-top: 50px;
+}
+
+.jumbotron p {
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.btn-block{
+  width: 90%;
+  margin-left: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+body {
+  opacity: .9;
+}
+
+#portfolioSamples {
+  margin: 100px;
+  margin-left: 100px;
+  padding: 50px;
+  height: 800px;
+}
+
+.photo-text {
+  width: 412px;
+  margin-top: 12px;
+}
+
+.portPhoto {
+  border: solid grey 1px;
+}
+
+.navbar-default .navbar-nav {
+  color: #337ab7;
+}
+
+#contactMe {
+  margin-top: 50px;
+}
+
+#calorieText {
+  margin-top: 30px;
+}
+
+#welcome-box {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 150px;
+    padding-top: 50px;
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 50px;
+    border-color: #D9853B;
+    border-radius: 5px;
+    background-color: #579fc1;
+    color: black;
+    clear: both;
+    position: static;
+    display: block;
+    text-align: center;
+    height: 800px;
+    background-image: url("images/thegreatwave.jpg")
+}
+
+#welcome-box h1 {
+  font-size: 50px;
+}
+
+#welcome-box p {
+  font-size: 20px;
+}
